@@ -1,0 +1,4 @@
+---- UART1_DeInit Matches (3 in 3 files) ----
+Init_Uart1 in main.c :     UART1_DeInit();
+stm8s_uart1.c (STM8S_StdPeriph_Driver\src) line 46 : void UART1_DeInit(void)
+stm8s_uart1.h (STM8S_StdPeriph_Driver\inc) line 339 : void UART1_DeInit(void);
