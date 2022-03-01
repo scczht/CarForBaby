@@ -10,7 +10,7 @@
 
 unsigned char RxBuf[5]={0x01,0x03,0x00,0x07,0x09};
 HcSrc4Info_s HcSr4Cnt;
-
+/*Only test 20220301*/
 
 void Init_Uart2(void)
 {
